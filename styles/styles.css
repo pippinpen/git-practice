@@ -1,0 +1,17 @@
+body {
+  color: hsl(294, 38%, 22%);
+}
+
+h1 {
+color: white;
+}
+
+.letter-animation {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
